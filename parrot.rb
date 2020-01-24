@@ -7,7 +7,6 @@ def parrot
 end
 
 def parrot(phrase = "Squawk!")
-  #phrase = "Pretty bird!"
   puts phrase
   phrase
 end
